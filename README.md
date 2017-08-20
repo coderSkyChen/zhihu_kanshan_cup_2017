@@ -1,11 +1,11 @@
 # zhihu_kanshan_cup_2017
 2017知乎看山杯比赛，我的部分代码。仅提供了单模型最高分的RCNN+ATTENTION模型。
 
-详情请移步至我的博文：[大规模文本分类实践-知乎看山杯总结]()
+详情请移步至我的博文：[大规模文本分类实践-知乎看山杯总结](http://coderskychen.cn/2017/08/20/zhihucup/)
 
 # 数据下载与说明
 数据存在百度云： http://pan.baidu.com/s/1bpnNRQJ
-数据说明：[移步至此]()
+数据说明：[移步至此](https://github.com/coderSkyChen/zhihu_kanshan_cup_2017/blob/master/%E6%95%B0%E6%8D%AE%E9%9B%86%E8%AF%B4%E6%98%8E.txt)
 
 # 运行环境：
 - python版本：py3
